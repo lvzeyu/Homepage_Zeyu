@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: Publication
 widget_id: my-widget-123
 headless: true
 weight: 10
