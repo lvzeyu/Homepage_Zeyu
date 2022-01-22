@@ -18,22 +18,22 @@ social:
     icon_pack: fab
     link: https://github.com/lvzeyu
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Computational Humanities and Social Sciences, Tohoku University
+    url: https://www.sal.tohoku.ac.jp/jp/research/specializations/lab/---id-37.html
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD
+      institution: Computational Humanities and Social Sciences, Tohoku University
+      year: ""
+    - course: Master
+      institution: Behavioral Science, Tohoku University
+      year: ""
+    - course: BS
+      institution: Journalism, Northeastern University (China)
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
 ---
-Zeyu Lyu is a PhD candidate at the Computational Humanities and Social Sciences lab, Tohoku University. 
-His primary interests involve empolying big data and computational methods in the area of sociology, communication and politics.
+Zeyu Lyu is a Ph.D. candidate at the Computational Humanities and Social Sciences lab, Tohoku University. 
+His primary interests involve employing big data and computational methods in the area of sociology, communication and politics.
