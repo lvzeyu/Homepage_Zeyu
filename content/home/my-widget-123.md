@@ -1,6 +1,6 @@
 ---
-widget: Publication
-widget_id: Publication
+widget: Publications
+widget_id: Publications
 headless: true
 weight: 10
 active: true
