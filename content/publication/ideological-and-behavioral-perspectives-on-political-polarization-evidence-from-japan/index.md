@@ -2,7 +2,7 @@
 title: "Ideological and Behavioral Perspectives on Political Polarization:
   Evidence from Japan"
 publication_types:
-  - "0"
+  - "2"
 authors:
   - admin
 doi: https://doi.org/10.11218/ojjams.35.170
